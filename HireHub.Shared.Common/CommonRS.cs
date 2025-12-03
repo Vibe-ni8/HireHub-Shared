@@ -8,11 +8,11 @@ public class CommonRS
     {
         get
         {
-            return Common.Culture;
+            return CommonRS.Culture;
         }
         set
         {
-            Common.Culture = value;
+            CommonRS.Culture = value;
         }
     }
 

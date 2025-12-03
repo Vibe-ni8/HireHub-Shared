@@ -2,7 +2,7 @@
 
 public class BaseResponse
 {
-    public IList<object> Warnings { get; set; } = new List<object>();
+    public List<object> Warnings { get; set; } = new List<object>();
 
-    public IList<object> Errors { get; set; } = new List<object>();
+    public List<object> Errors { get; set; } = new List<object>();
 }
