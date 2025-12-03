@@ -1,0 +1,12 @@
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\bin\Debug\net8.0\HireHub.Shared.Infrastructure.deps.json
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\bin\Debug\net8.0\HireHub.Shared.Infrastructure.dll
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\bin\Debug\net8.0\HireHub.Shared.Infrastructure.pdb
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\HireHub.Shared.Infrastructure.csproj.AssemblyReference.cache
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\HireHub.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\HireHub.Shared.Infrastructure.AssemblyInfoInputs.cache
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\HireHub.Shared.Infrastructure.AssemblyInfo.cs
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\HireHub.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\HireHub.Shared.Infrastructure.dll
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\refint\HireHub.Shared.Infrastructure.dll
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\HireHub.Shared.Infrastructure.pdb
+D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Infrastructure\obj\Debug\net8.0\ref\HireHub.Shared.Infrastructure.dll

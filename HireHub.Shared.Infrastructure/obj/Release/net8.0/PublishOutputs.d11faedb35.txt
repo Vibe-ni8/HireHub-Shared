@@ -1,0 +1,16 @@
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Infrastructure.dll
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Infrastructure.deps.json
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Infrastructure.pdb
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Configuration.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Configuration.Binder.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.DependencyInjection.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Diagnostics.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Http.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Logging.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Options.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Primitives.dll

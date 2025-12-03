@@ -1,0 +1,13 @@
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Middleware.dll
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Middleware.deps.json
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Middleware.pdb
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.AspNetCore.Http.Features.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Options.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Primitives.dll

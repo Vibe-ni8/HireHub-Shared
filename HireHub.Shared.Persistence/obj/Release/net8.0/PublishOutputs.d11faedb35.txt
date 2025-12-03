@@ -1,0 +1,13 @@
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Persistence.dll
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Persistence.deps.json
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Persistence.pdb
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.EntityFrameworkCore.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Caching.Memory.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.DependencyInjection.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Logging.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Options.dll
+D:\Virtusa\HireHub\Backend\Publish\Microsoft.Extensions.Primitives.dll

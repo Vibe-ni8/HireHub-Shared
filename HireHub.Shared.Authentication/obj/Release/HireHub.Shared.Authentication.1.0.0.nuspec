@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HireHub.Shared.Authentication</id>
+    <version>1.0.0</version>
+    <authors>HireHub Team</authors>
+    <description>A shared library for HireHub project</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="8.15.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Authentication\bin\Release\net8.0\HireHub.Shared.Authentication.dll" target="lib\net8.0\HireHub.Shared.Authentication.dll" />
+  </files>
+</package>

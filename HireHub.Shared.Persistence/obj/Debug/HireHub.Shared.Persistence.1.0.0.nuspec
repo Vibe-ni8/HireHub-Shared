@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HireHub.Shared.Persistence</id>
+    <version>1.0.0</version>
+    <authors>HireHub Team</authors>
+    <description>A shared library for HireHub project</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.22" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Virtusa\HireHub\Backend\HireHub.Shared.Solution\HireHub.Shared.Persistence\bin\Debug\net8.0\HireHub.Shared.Persistence.dll" target="lib\net8.0\HireHub.Shared.Persistence.dll" />
+  </files>
+</package>

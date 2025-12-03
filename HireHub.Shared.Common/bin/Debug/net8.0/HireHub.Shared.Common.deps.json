@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HireHub.Shared.Common/1.0.0": {
+        "runtime": {
+          "HireHub.Shared.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HireHub.Shared.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

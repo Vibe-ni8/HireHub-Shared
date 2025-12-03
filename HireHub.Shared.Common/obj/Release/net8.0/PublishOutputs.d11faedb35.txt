@@ -1,0 +1,3 @@
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Common.dll
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Common.deps.json
+D:\Virtusa\HireHub\Backend\Publish\HireHub.Shared.Common.pdb
